@@ -1,0 +1,11 @@
+metagpt
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+beautifulsoup4
+lxml
+selenium
+webdriver_manager

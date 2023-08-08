@@ -1,0 +1,1 @@
+console.log('Minion hologram script loaded.');

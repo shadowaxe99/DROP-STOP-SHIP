@@ -1,0 +1,15 @@
+API_KEYS:
+  SUPPLIER_API_KEY: 'your_supplier_api_key'
+  SHIPPING_API_KEY: 'your_shipping_api_key'
+  ECOMMERCE_PLATFORM_API_KEY: 'your_ecommerce_platform_api_key'
+
+MODELS:
+  PRODUCT_RESEARCH_MODEL: 'product_research_model'
+  PRODUCT_LISTING_MODEL: 'product_listing_model'
+  ORDER_PROCESSING_MODEL: 'order_processing_model'
+  ANALYTICS_MODEL: 'analytics_model'
+
+ENDPOINTS:
+  SUPPLIER_API_ENDPOINT: 'supplier_api_endpoint'
+  SHIPPING_API_ENDPOINT: 'shipping_api_endpoint'
+  ECOMMERCE_PLATFORM_API_ENDPOINT: 'ecommerce_platform_api_endpoint'
